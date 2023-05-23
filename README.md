@@ -1,6 +1,6 @@
-# Microsoft Coding Challenge
+## Microsoft Coding Challenge
 
-## Please have the candidate complete the following coding challenge ahead of the call.
+### Please have the candidate complete the following coding challenge ahead of the call.
 
 - https://github.com/spencer-nelson/CodingChallenge
 
