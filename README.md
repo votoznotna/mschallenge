@@ -15,4 +15,4 @@
 
 ### The solution gif-shot:
 
-![Demo](demo/fracta.gif)
+![Demo](Microsoft.CodingChallenge.gif)
