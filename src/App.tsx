@@ -2,7 +2,7 @@ import React, { useEffect, useRef, useState } from "react";
 import "./App.css";
 import { IconList } from "./ui/IconList";
 import { Camera20Filled } from "@fluentui/react-icons";
-import { useScreenshot, createFileName } from "./util/useScreenshot";
+import { useScreenshot } from "./util/useScreenshot";
 
 function App() {
   let [files, setFiles] = React.useState<Array<Object>>([]);
